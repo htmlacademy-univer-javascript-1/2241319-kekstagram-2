@@ -8,6 +8,3 @@ function getCommSize (comm, maxSize) {
 function getRandom (min, max) {
   return Math.random()*(max-min)+min;
 }
-
-
-
